@@ -1,5 +1,4 @@
 - Hi, I’m @SamuelHathcock
-- I’m interested in everything
 - I’m currently learning webscraping
 - I’m looking to collaborate on anything to do with webscraping
 - How to reach me: samuelnhathcock@gmail.com
